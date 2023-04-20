@@ -20,8 +20,7 @@ summary:
 
 A post on the new features introduced in v1.0. New features:
 
-<TOCInline toc={props.toc} exclude="Overview" toHeading={2} />
-
+<TOCInline toc={props.toc} exclude="Overview" toHeading={2} /> 
 ## 04\_字面量和变量
 
 ```html
